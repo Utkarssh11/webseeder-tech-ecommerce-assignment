@@ -13,8 +13,6 @@ It was created as part of the WebSeeder Tech assignment.
 
 ## Notes
 - Built for the WebSeeder Tech internship assignment  
-- Deadline: Thursday, 6–7 PM (extension possible till Friday)  
-- Can be hosted on Vercel or GitHub and shared with HR  
 
 ---
 
